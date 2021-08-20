@@ -23,7 +23,7 @@
      "action": "close"
     },
     {
-     "path": "test.sb3",
+     "path": "0.0-welcome/welcome.sb3",
      "panel": 0,
      "action": "open"
     }
@@ -109,8 +109,18 @@
   {
    "id": "6b98533c-4a77-f854-34c9-707a0a494593",
    "title": "Step-By-Step",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1.1-step-by-step/step-by-step.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Step-By-Step-6b98.md",
@@ -136,7 +146,18 @@
   {
    "id": "da20b8eb-9ab7-87a8-77f5-11ae06f57a3c",
    "title": "Ten Blocks",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1.2-ten-blocks/ten-blocks.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Ten-Blocks-da20.md",
@@ -150,6 +171,7 @@
    "id": "bce5d52a-47c9-e841-7604-7723fd1b9a42",
    "title": "Ten Blocks Reflections",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Ten-Blocks-Reflections-bce5.md",
@@ -167,8 +189,8 @@
  ],
  "lexikonTopic": "",
  "suppressPageNumbering": false,
- "useSubmitButtons": true,
- "useMarkAsComplete": true,
+ "useSubmitButtons": false,
+ "useMarkAsComplete": false,
  "hideMenu": false,
  "allowGuideClose": false,
  "collapsedOnStart": false,

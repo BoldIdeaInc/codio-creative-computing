@@ -1,0 +1,7 @@
+- assignment: 914847db77a76049db24285b6bb5ecd4
+  section:  ["Unit 0", "Welcome"]
+  paths: ["0.0-welcome/**"]
+  
+- assignment: 6d5c0550a03968ef2d695a019b3665b4
+  section:  ["Unit 0", "Scratch Surprise"]
+  paths: ["0.1-scratch-surprise/**"]
