@@ -1,0 +1,178 @@
+{
+ "sections": [
+  {
+   "id": "1dd6e6b7-f9b7-3f39-b912-601c23623955",
+   "title": "Welcome!",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Welcome--1dd6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "03cbbec0-1b93-549d-1331-07f8e354141b",
+   "title": "Using the Codio Guide",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "test.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-the-Codio-Guide-03cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "38f90aca-bb74-a360-c390-0b7ae0b07993",
+   "title": "Reflection Journal",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reflection-Journal-38f9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "67207de1-bf54-6dc1-2b5b-667900c83694",
+   "title": "The Scratch Interface",
+   "files": [
+    {
+     "path": "0.1-scratch-surprise/scratch-surprise.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Scratch-Interface-6720.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "90ca3d0d-7585-dfcf-ef4e-2c7907b2ad65",
+   "title": "Scratch Surprise",
+   "files": [
+    {
+     "path": "0.1-scratch-surprise/scratch-surprise.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scratch-Surprise-90ca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "64f8aea3-d97a-e674-27b4-c734b12336a6",
+   "title": "Scratch Surprise Reflections",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scratch-Surprise-Reflections-64f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6b98533c-4a77-f854-34c9-707a0a494593",
+   "title": "Step-By-Step",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-By-Step-6b98.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fe0a12d8-502f-6c46-9b4a-6ff308000c27",
+   "title": "Step-By-Step Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-By-Step-Reflections-fe0a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "da20b8eb-9ab7-87a8-77f5-11ae06f57a3c",
+   "title": "Ten Blocks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ten-Blocks-da20.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bce5d52a-47c9-e841-7604-7723fd1b9a42",
+   "title": "Ten Blocks Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ten-Blocks-Reflections-bce5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [
+  "https://codio.com/codio-client.js",
+  ".guides/guide.js"
+ ],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

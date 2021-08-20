@@ -1,0 +1,107 @@
+{
+ "name": "Creative Computing",
+ "children": [
+  {
+   "title": "Unit 0",
+   "id": "013bbff1-26dd-3bbf-2a6b-5fa38c84c0b6",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Welcome",
+     "id": "251c35a4-96cd-f4a1-0c91-8fc682a7e126",
+     "type": "section",
+     "children": [
+      {
+       "title": "Welcome!",
+       "id": "1dd6e6b7-f9b7-3f39-b912-601c23623955",
+       "type": "page",
+       "pageId": "1dd6e6b7-f9b7-3f39-b912-601c23623955"
+      },
+      {
+       "title": "Using the Codio Guide",
+       "id": "03cbbec0-1b93-549d-1331-07f8e354141b",
+       "type": "page",
+       "pageId": "03cbbec0-1b93-549d-1331-07f8e354141b"
+      },
+      {
+       "title": "Reflection Journal",
+       "id": "bac8f25b-07f1-2ec0-6040-2f4769ff965d",
+       "type": "page",
+       "pageId": "38f90aca-bb74-a360-c390-0b7ae0b07993"
+      },
+      {
+       "title": "The Scratch Interface",
+       "id": "94c83425-140c-fe12-1a7e-c6a7418fdcca",
+       "type": "page",
+       "pageId": "67207de1-bf54-6dc1-2b5b-667900c83694"
+      }
+     ]
+    },
+    {
+     "title": "Scratch Surprise",
+     "id": "023df13f-cf65-543b-8de0-1627160e23c8",
+     "type": "section",
+     "children": [
+      {
+       "title": "Scratch Surprise",
+       "id": "f777ba1e-9129-1b21-185e-033971d6f81c",
+       "type": "page",
+       "pageId": "90ca3d0d-7585-dfcf-ef4e-2c7907b2ad65"
+      },
+      {
+       "title": "Scratch Surprise Reflections",
+       "id": "af24e5d2-b1c2-41e9-f58c-cb18821a4b8d",
+       "type": "page",
+       "pageId": "64f8aea3-d97a-e674-27b4-c734b12336a6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 1 - Exploring",
+   "id": "22e761a7-2bdf-2154-0b54-e664b3bfbabd",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Step-By-Step",
+     "id": "ec7dccf9-f0ed-abdf-8a03-da63809cc653",
+     "type": "section",
+     "children": [
+      {
+       "title": "Step-By-Step",
+       "id": "d7b62063-55b8-e479-5476-25c1036f96b7",
+       "type": "page",
+       "pageId": "6b98533c-4a77-f854-34c9-707a0a494593"
+      },
+      {
+       "title": "Step-By-Step Reflections",
+       "id": "8ad10eef-0218-2d5c-2098-415bf76efc2e",
+       "type": "page",
+       "pageId": "fe0a12d8-502f-6c46-9b4a-6ff308000c27"
+      }
+     ]
+    },
+    {
+     "title": "10 Blocks",
+     "id": "931ec06a-950f-5737-9026-0d7f708c07ca",
+     "type": "section",
+     "children": [
+      {
+       "title": "Ten Blocks",
+       "id": "ffe1a324-f31e-8668-0cca-94a9f31559f0",
+       "type": "page",
+       "pageId": "da20b8eb-9ab7-87a8-77f5-11ae06f57a3c"
+      },
+      {
+       "title": "Ten Blocks Reflections",
+       "id": "8ab3e82c-8b34-150d-6e63-a479fe0ba7cb",
+       "type": "page",
+       "pageId": "bce5d52a-47c9-e841-7604-7723fd1b9a42"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

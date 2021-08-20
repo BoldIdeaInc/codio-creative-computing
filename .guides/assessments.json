@@ -1,0 +1,392 @@
+[
+ {
+  "type": "free-text",
+  "taskId": "free-text-4043980362",
+  "source": {
+   "name": "Initial Reflections",
+   "showName": false,
+   "instructions": "- What are the different ways you interact with computers?\n- How many of those ways involve being creative with computers?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-112287216",
+  "source": {
+   "name": "What did you figure out?",
+   "showName": false,
+   "instructions": "What did you ﬁgure out?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "01-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "01-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-434697771",
+  "source": {
+   "name": "What do you want to know more about?",
+   "showName": false,
+   "instructions": "What do you want to know more about?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "01-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "01-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1981356050",
+  "source": {
+   "name": "What was surprising about the activity?",
+   "showName": false,
+   "instructions": "What was surprising about the activity?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3897282058",
+  "source": {
+   "name": "How did it feel to be led step-by-step through the activity?",
+   "showName": false,
+   "instructions": "How did it feel to be led step-by-step through\nthe activity?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1363381898",
+  "source": {
+   "name": "When do you feel most creative?",
+   "showName": false,
+   "instructions": "When do you feel most creative?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-687852160",
+  "source": {
+   "name": "What was difﬁcult about being able to use only 10 blocks?",
+   "showName": false,
+   "instructions": "What was difﬁcult about being able to use only 10 blocks?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3549083559",
+  "source": {
+   "name": "What was easy about being able to use only 10 blocks?",
+   "showName": false,
+   "instructions": "What was easy about being able to use only 10 blocks?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4130918824",
+  "source": {
+   "name": "How did it make you think of things differently?",
+   "showName": false,
+   "instructions": "How did it make you think of things differently?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "test.sb3",
+     "0.1-scratch-surprise/scratch-surprise.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "test.sb3"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "0.1-scratch-surprise/scratch-surprise.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

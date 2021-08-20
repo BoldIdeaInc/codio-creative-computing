@@ -1,0 +1,11 @@
+@import url('.guides/defaults.css');
+
+/**
+ * Custom overrides
+ */
+img {
+  display: inline;
+}
+.codio-challenge.codio-assessment-free-text {
+    margin-bottom: 0;
+}
