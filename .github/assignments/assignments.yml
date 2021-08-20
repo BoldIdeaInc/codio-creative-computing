@@ -7,9 +7,9 @@
   paths: ["0.1-scratch-surprise/**"]
   
 - assignment: 375329a52ba07d902bfea4305ec315db
-  section:  ["Unit 1", "Step-By-Step"]
+  section:  ["Unit 1 - Exploring", "Step-By-Step"]
   paths: ["1.1-step-by-step/**"]
   
 - assignment: a90bc7ee50ddb00b325368ca4d68eb6a
-  section:  ["Unit 1", "10 Blocks"]
+  section:  ["Unit 1 - Exploring", "10 Blocks"]
   paths: ["1.2-ten-blocks/**"]
