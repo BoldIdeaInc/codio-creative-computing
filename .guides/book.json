@@ -130,6 +130,43 @@
        "pageId": "bce5d52a-47c9-e841-7604-7723fd1b9a42"
       }
      ]
+    },
+    {
+     "title": "Debug It!",
+     "id": "c1519798-379a-a6b3-d6de-05a03b1810e2",
+     "type": "section",
+     "children": [
+      {
+       "title": "Debugging",
+       "id": "916a04d3-2add-991e-5e2e-9c905a29a476",
+       "type": "page",
+       "pageId": "74f046c8-fb55-0e08-b770-62277e0bcc91"
+      },
+      {
+       "id": "20e239fb-9499-9372-2fd8-b9ee555ed854",
+       "title": "Debug It! 1.1",
+       "pageId": "c47fcb4a-96ec-6423-c7d2-de4c0f5e4f67",
+       "type": "page"
+      },
+      {
+       "title": "Debug It! 1.2",
+       "id": "67266c13-c03a-b895-80a6-b95bdc64ee24",
+       "type": "page",
+       "pageId": "67266c13-c03a-b895-80a6-b95bdc64ee24"
+      },
+      {
+       "title": "Debug It! 1.3",
+       "id": "408cba81-ee7d-3f82-b26a-de72e8e71e63",
+       "type": "page",
+       "pageId": "408cba81-ee7d-3f82-b26a-de72e8e71e63"
+      },
+      {
+       "title": "Debug It! 1.4",
+       "id": "493a5f63-4b3c-2423-1bbc-10a53025d38a",
+       "type": "page",
+       "pageId": "493a5f63-4b3c-2423-1bbc-10a53025d38a"
+      }
+     ]
     }
    ]
   }

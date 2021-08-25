@@ -13,3 +13,7 @@
 - assignment: a90bc7ee50ddb00b325368ca4d68eb6a
   section:  ["Unit 1 - Exploring", "10 Blocks"]
   paths: ["1.2-ten-blocks/**"]
+
+- assignment: 6b51013423f9d47fa982718c771c7675
+  section: ["Unit 1 - Debug It!"]
+  paths: ["1.3-debug-it/**"]
