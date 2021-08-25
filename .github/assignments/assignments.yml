@@ -14,6 +14,6 @@
   section: ["Unit 1 - Exploring", "10 Blocks"]
   paths: ["1.2-ten-blocks/**"]
 
-- assignment: 6b51013423f9d47fa982718c771c7675
-  section: ["Unit 1 - Exploring", "Debug It!"]
-  paths: ["1.3-debug-it/**"]
+- assignment: 7191743dff8544606c4beec5e6669f1d
+  section: ["Unit 1 - Exploring", "About Me"]
+  paths: ["1.4-about-me/**"]
