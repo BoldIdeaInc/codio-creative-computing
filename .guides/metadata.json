@@ -365,19 +365,6 @@
   {
    "id": "22c9d2af-1620-a316-b199-c6f09228f271",
    "title": "About Me",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/About-Me-22c9.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "closeTerminalSession": true,
-   "learningObjectives": ""
-  },
-  {
-   "id": "01f780f4-67af-7a8d-7bb0-e1172a12d900",
-   "title": "About Me Reflections",
    "files": [
     {
      "path": "#tabs",
@@ -390,6 +377,20 @@
     }
    ],
    "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/About-Me-22c9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "01f780f4-67af-7a8d-7bb0-e1172a12d900",
+   "title": "About Me Reflections",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/About-Me-Reflections-01f7.md",
