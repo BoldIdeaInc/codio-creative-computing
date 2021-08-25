@@ -4,9 +4,9 @@ In this project, when the green ﬂag is clicked, the Scratch Cat should saw ‘
 |||info
 # Need a hint?
 
-The "meow" sound needs to happen 3 times. Have you noticed the "repeat 3 times" block is missing a block inside it?
+- The "meow" sound needs to happen 3 times. Have you noticed the "repeat 3 times" block is missing a block inside it?
+- The "Say 'meow, meow, meow' for 2 seconds" block will wait 2 seconds after showing the speech bubble. Is there another block you could use instead?
 
-The "Say 'meow, meow, meow' for 2 seconds" block will wait 2 seconds after showing the speech bubble. Is there another block you could use instead?
 |||
 
 ## Reflection
