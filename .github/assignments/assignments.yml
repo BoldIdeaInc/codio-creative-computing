@@ -1,19 +1,19 @@
 - assignment: 914847db77a76049db24285b6bb5ecd4
-  section:  ["Unit 0", "Welcome"]
+  section: ["Unit 0", "Welcome"]
   paths: ["0.0-welcome/**"]
   
 - assignment: 6d5c0550a03968ef2d695a019b3665b4
-  section:  ["Unit 0", "Scratch Surprise"]
+  section: ["Unit 0", "Scratch Surprise"]
   paths: ["0.1-scratch-surprise/**"]
   
 - assignment: 375329a52ba07d902bfea4305ec315db
-  section:  ["Unit 1 - Exploring", "Step-By-Step"]
+  section: ["Unit 1 - Exploring", "Step-By-Step"]
   paths: ["1.1-step-by-step/**"]
   
 - assignment: a90bc7ee50ddb00b325368ca4d68eb6a
-  section:  ["Unit 1 - Exploring", "10 Blocks"]
+  section: ["Unit 1 - Exploring", "10 Blocks"]
   paths: ["1.2-ten-blocks/**"]
 
 - assignment: 6b51013423f9d47fa982718c771c7675
-  section: ["Unit 1 - Debug It!"]
+  section: ["Unit 1 - Exploring", "Debug It!"]
   paths: ["1.3-debug-it/**"]
