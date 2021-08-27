@@ -3,6 +3,8 @@ When the green ﬂag is clicked, both Gobo and Scratch Cat should start dancing.
 
 **How do we ﬁx the program?**
 
+{Start Over | reset}()
+
 |||info
 # Need a hint?
 Below the stage is a list of sprites in your project, along with some settings. If you click on the "Gobo" sprite, you can see the code for that sprite.
