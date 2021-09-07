@@ -414,7 +414,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Build-a-Band-a935.md",
@@ -452,7 +452,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Orange-Square--Purple-Circle-212b.md",
