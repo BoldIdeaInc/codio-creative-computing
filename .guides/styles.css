@@ -9,3 +9,15 @@ img {
 .codio-challenge.codio-assessment-free-text {
     margin-bottom: 0;
 }
+
+button.codio-button-type-next[disabled] {
+  border-color: #ddd;
+}
+
+button.codio-button-type-next[disabled] span {
+  display: none;
+}
+
+button.codio-button-type-next[disabled]::after {
+  content: "Loading..."
+}
