@@ -399,6 +399,276 @@
    "teacherOnly": false,
    "closeTerminalSession": true,
    "learningObjectives": ""
+  },
+  {
+   "id": "a935e57f-9230-1497-3528-faff4e55f140",
+   "title": "Build-a-Band",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.1-build-a-band/build-a-band.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-a-Band-a935.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "217a5d6c-4743-8712-8ab4-710b5132b0e3",
+   "title": "Build-a-Band Reflections",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-a-Band-Reflections-217a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "212b1a07-705b-d1d0-dfe5-c06c5bcea264",
+   "title": "Orange Square, Purple Circle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.1-orange-square/orange-square-purple-circle.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Orange-Square--Purple-Circle-212b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5fdd2db6-5e88-ce0d-4ae1-04e020d3614c",
+   "title": "Orange Square, Purple Circle Reflections",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Orange-Square--Purple-Circle-Reflections-5fdd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "acd5bc98-476e-66bc-96c3-889a2d53582c",
+   "title": "It's Alive!",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.3-its-alive/its-alive.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/It-s-Alive--acd5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "67da3db4-ceaa-0971-cba5-28fc89403611",
+   "title": "It's Alive! Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/It-s-Alive--Reflections-67da.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a9687ec1-afa8-87d1-8c84-338237525c3d",
+   "title": "Debug It! 2.1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.4-debug-it/Debug It! 2.1.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--2-1-a968.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "32649e4e-8bb7-e6d2-f95d-724adef55fea",
+   "title": "Debug It! 2.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.4-debug-it/Debug It! 2.2.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--2-2-3264.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ec73fda2-cc3a-1673-6883-f9cf772e6348",
+   "title": "Debug It! 2.3",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.4-debug-it/Debug It! 2.3.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--2-3-ec73.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f3208828-571b-d439-5d84-d3eb72178050",
+   "title": "Debug It! 2.4",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.4-debug-it/Debug It! 2.4.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--2-4-f320.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b9fab36d-1526-4b9c-3d6e-4cd0c0370fab",
+   "title": "Debug It! 2.5",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.4-debug-it/Debug It! 2.5.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--2-5-b9fa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e1b07fc7-a567-3e98-2759-e8930aced24a",
+   "title": "Music Video",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2.5-music-video/music-video.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Music-Video-e1b0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "08cf6791-8cfd-88e5-2a5a-5d0a7bcc2fb0",
+   "title": "Music Video Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Music-Video-Reflections-08cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",

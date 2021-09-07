@@ -694,5 +694,652 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1167435249",
+  "source": {
+   "name": "What did you do first?",
+   "showName": false,
+   "instructions": "What did you do first?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-build-a-band/build-a-band.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-build-a-band/build-a-band.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-637679778",
+  "source": {
+   "name": "What did you do next?",
+   "showName": false,
+   "instructions": "What did you do next?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-build-a-band/build-a-band.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-build-a-band/build-a-band.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3126486764",
+  "source": {
+   "name": "What did you do last?",
+   "showName": false,
+   "instructions": "What did you do last?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-build-a-band/build-a-band.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-build-a-band/build-a-band.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3744983685",
+  "source": {
+   "name": "How did you incorporate...",
+   "showName": false,
+   "instructions": "How did you incorporate an orange square and a purple circle into your project? Where did this idea come from?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-orange-square/orange-square-purple-circle.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-orange-square/orange-square-purple-circle.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-655319988",
+  "source": {
+   "name": "What was challenging?",
+   "showName": false,
+   "instructions": "What was challenging about this activity?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-orange-square/orange-square-purple-circle.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-orange-square/orange-square-purple-circle.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1743014874",
+  "source": {
+   "name": "What was surprising?",
+   "showName": false,
+   "instructions": "What was surprising about this activity?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 20,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.1-orange-square/orange-square-purple-circle.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.1-orange-square/orange-square-purple-circle.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3289492379",
+  "source": {
+   "name": "What is the difference between a sprite and a costume?",
+   "showName": false,
+   "instructions": "What is the difference between a sprite and a costume?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.2-its-alive/its-alive.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.2-its-alive/its-alive.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3630353138",
+  "source": {
+   "name": "What is an animation?",
+   "showName": false,
+   "instructions": "What is an animation?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.2-its-alive/its-alive.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.2-its-alive/its-alive.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1209496049",
+  "source": {
+   "name": "List three ways you experience loops in real life",
+   "showName": false,
+   "instructions": "List three ways you experience loops in real life (e.g., going to sleep every night).",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.2-its-alive/its-alive.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.2-its-alive/its-alive.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2603650554",
+  "source": {
+   "name": "Debug It! Reflection - 2.1",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [
+     "2.4-debug-it/Debug It! 2.1.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.4-debug-it/Debug It! 2.1.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2764009347",
+  "source": {
+   "name": "Debug It! Reflection - 2.2",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [
+     "2.4-debug-it/Debug It! 2.2.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.4-debug-it/Debug It! 2.2.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3645697964",
+  "source": {
+   "name": "Debug It! Reflection - 2.3",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [
+     "2.4-debug-it/Debug It! 2.3.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.4-debug-it/Debug It! 2.3.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-188943917",
+  "source": {
+   "name": "Debug It! Reflection - 2.4",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3468808598",
+  "source": {
+   "name": "Debug It! Reflection - 2.5",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2228583437",
+  "source": {
+   "name": "What was a challenge you overcame?",
+   "showName": false,
+   "instructions": "What was a challenge you overcame? How did you overcome it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.5-music-video/music-video.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.5-music-video/music-video.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2174292280",
+  "source": {
+   "name": "What is something you still want to figure out?",
+   "showName": false,
+   "instructions": "What is something you still want to figure out?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "2.5-music-video/music-video.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "2.5-music-video/music-video.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]

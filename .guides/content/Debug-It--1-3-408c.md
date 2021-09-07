@@ -1,7 +1,7 @@
 # This program is broken!
 The Scratch Cat should do a ﬂip when the space key is pressed. But when the space key is pressed, nothing happens!
 
-How do we fix the program?
+**How do we fix the program?**
 
 |||info
 # Need a hint?

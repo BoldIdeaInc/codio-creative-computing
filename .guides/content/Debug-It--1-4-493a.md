@@ -1,5 +1,7 @@
 # This program is broken!
-In this project, when the green ﬂag is clicked, the Scratch Cat should saw ‘Meow, meow, meow!’ in a speech bubble and as a sound. But the speech bubble happens before the sound – and the Scratch Cat only makes one ‘Meow’ sound! How do we ﬁx the program?
+In this project, when the green ﬂag is clicked, the Scratch Cat should saw ‘Meow, meow, meow!’ in a speech bubble and as a sound. But the speech bubble happens before the sound – and the Scratch Cat only makes one ‘Meow’ sound!
+
+**How do we fix the program?**
 
 |||info
 # Need a hint?
