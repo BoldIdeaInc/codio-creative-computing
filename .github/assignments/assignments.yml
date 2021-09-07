@@ -22,22 +22,22 @@
   section: ["Unit 1 - Exploring", "About Me"]
   paths: ["1.4-about-me/**"]
 
-- assignment:
+- assignment: 2c94859440ff78f6c9b97f8c8a7a43b9
   section: ["Unit 2 - Animations", "Build-a-Band"]
   paths: ["2.1-build-a-band/**"]
 
-- assignment:
+- assignment: fb847d2b20ce0ef08af6f285693bd536
   section: ["Unit 2 - Animations", "Orange Square, Purple Circle"]
   paths: ["2.2-orange-square/**"]
 
-- assignment:
+- assignment: 37030feb77d03c240bfe99a97f408637
   section: ["Unit 2 - Animations", "It's Alive"]
   paths: ["2.3-its-alive/**"]
 
-- assignment:
+- assignment: 63236aa57c810c35e620ff837191ded2
   section: ["Unit 2 - Animations", "Debug It!"]
   paths: ["2.4-debug-it/**"]
 
-- assignment:
+- assignment: e9f4e9122291b8f8b82cee87b43e6538
   section: ["Unit 2 - Animations", "Music Video"]
   paths: ["2.5-music-video/**"]
