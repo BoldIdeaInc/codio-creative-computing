@@ -41,3 +41,19 @@
 - assignment: e9f4e9122291b8f8b82cee87b43e6538
   section: ["Unit 2 - Animations", "Music Video"]
   paths: ["2.5-music-video/**"]
+  
+- assignment: e0318e2023a5776bdb533ff6df2d9fe5
+  section: ["Unit 3 - Characters", "Characters"]
+  paths: ["3.1-characters/**"]
+  
+- assignment: a6a11509dc189045e98d3e4ffed1c9d3
+  section: ["Unit 3 - Characters", "Conversations"]
+  paths: ["3.2-conversations/**"]
+  
+- assignment: fb391d1f7078a3a839989563e3a6800d
+  section: ["Unit 3 - Characters", "Scenes"]
+  paths: ["3.3-scenes/**"]
+  
+- assignment: 38e347e2ccd04a2ca9105cb70c58bb9e
+  section: ["Unit 3 - Characters", "Debug It!"]
+  paths: ["3.4-debug-it/**"]

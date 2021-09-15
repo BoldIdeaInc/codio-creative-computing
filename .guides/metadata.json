@@ -661,9 +661,242 @@
    "id": "08cf6791-8cfd-88e5-2a5a-5d0a7bcc2fb0",
    "title": "Music Video Reflections",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Music-Video-Reflections-08cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "90bc2a3e-9714-c0d5-b141-4421f4f7f491",
+   "title": "Characters",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.1-characters/characters.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Characters-90bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "08f22a07-5cd4-faf5-de39-c0bd1412650d",
+   "title": "Characters Reflections",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Characters-Reflections-08f2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e6733739-5130-90e3-4bfa-690916fadc1f",
+   "title": "Conversations",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.2-conversations/penguin-jokes.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conversations-e673.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ab4d72b6-e8ab-0890-bd22-19ab90d1f44a",
+   "title": "Conversations Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conversations-Reflections-ab4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "79af6050-27f4-2070-151d-d28350eb0dc6",
+   "title": "Scenes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.3-scenes/scenes.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scenes-79af.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "97e26dc4-3c48-1b03-3338-a10bba46feed",
+   "title": "Scenes Reflections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scenes-Reflections-97e2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "14824657-4588-98bb-da7e-0a5f2cbf1de1",
+   "title": "Debug It! 3.1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.4-debug-it/Debug-It 3.1.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--3-1-1482.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b70cba5b-0ffe-5c8a-8c63-8ea50f901e01",
+   "title": "Debug It! 3.2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.4-debug-it/Debug-It 3.2.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--3-2-b70c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a81fb9d0-cdc8-36a6-6fa3-bdcc2164564e",
+   "title": "Debug It! 3.3",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.4-debug-it/Debug-It 3.3.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--3-3-a81f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "02abd80f-95fc-0835-3505-b9e54ea8d114",
+   "title": "Debug It! 3.4",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.4-debug-it/Debug-It 3.4.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--3-4-02ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ce87cb4c-0d42-362f-55b7-69937f65dccd",
+   "title": "Debug It! 3.5",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3.4-debug-it/Debug-It 3.5.sb3",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debug-It--3-5-ce87.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

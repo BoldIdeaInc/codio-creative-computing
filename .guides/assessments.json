@@ -1341,5 +1341,476 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-499047725",
+  "source": {
+   "name": "How would you explain Make a Block to someone else?",
+   "showName": false,
+   "instructions": "How would you explain Make a Block to someone else?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.1-characters/characters.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.1-characters/characters.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-529519524",
+  "source": {
+   "name": "When might you use Make a Block?",
+   "showName": false,
+   "instructions": "When might you use Make a Block?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.1-characters/characters.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.1-characters/characters.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1764825815",
+  "source": {
+   "name": "How would you describe broadcast to someone else?",
+   "showName": false,
+   "instructions": "How would you describe broadcast to someone else?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.2-conversations/penguin-jokes.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.2-conversations/penguin-jokes.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1452372856",
+  "source": {
+   "name": "When would you use timing in a project?",
+   "showName": false,
+   "instructions": "When would you use timing in a project? When would you use broadcasting?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.2-conversations/penguin-jokes.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.2-conversations/penguin-jokes.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-996040294",
+  "source": {
+   "name": "What does the Stage have in common with sprites?",
+   "showName": false,
+   "instructions": "What does the Stage have in common with sprites?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.2-conversations/penguin-jokes.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.2-conversations/penguin-jokes.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1648108689",
+  "source": {
+   "name": "How is the Stage different from sprites?",
+   "showName": false,
+   "instructions": "How is the Stage different from sprites?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.2-conversations/penguin-jokes.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.2-conversations/penguin-jokes.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1283238848",
+  "source": {
+   "name": "How do you initiate a sprite’s actions in a scene?",
+   "showName": false,
+   "instructions": "How do you initiate a sprite’s actions in a scene?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "3.2-conversations/penguin-jokes.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "3.2-conversations/penguin-jokes.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4210104710",
+  "source": {
+   "name": "Debug It! Reflection - 3.1",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1511952528",
+  "source": {
+   "name": "Debug It! Reflection - 3.2",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2734407185",
+  "source": {
+   "name": "Debug It! Reflection - 3.3",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1902878426",
+  "source": {
+   "name": "Debug It! Reflection - 3.4",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3591866492",
+  "source": {
+   "name": "Debug It! Reflection - 3.5",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
  }
 ]

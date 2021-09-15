@@ -308,6 +308,120 @@
      ]
     }
    ]
+  },
+  {
+   "title": "Unit 3 - Characters",
+   "id": "b83067bf-3a5e-1bf7-17ad-20627c17e203",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Characters",
+     "id": "689b7cf9-ae7d-9339-caff-5b6e988316e1",
+     "type": "section",
+     "children": [
+      {
+       "id": "fea0b07a-154b-a23f-df5a-c66252a099a4",
+       "title": "Characters",
+       "pageId": "90bc2a3e-9714-c0d5-b141-4421f4f7f491",
+       "type": "page"
+      },
+      {
+       "id": "7548445f-71bb-2c62-09da-4ef8e419c277",
+       "title": "Characters Reflections",
+       "pageId": "08f22a07-5cd4-faf5-de39-c0bd1412650d",
+       "type": "page"
+      }
+     ]
+    },
+    {
+     "title": "Conversations",
+     "id": "66df756a-0d65-f109-9400-74d0b05b471e",
+     "type": "section",
+     "children": [
+      {
+       "id": "60a5c8f9-11f5-6045-62d7-a54f81323b5c",
+       "title": "Conversations",
+       "pageId": "e6733739-5130-90e3-4bfa-690916fadc1f",
+       "type": "page"
+      },
+      {
+       "id": "954b26c3-cca4-88ba-89bc-2427dbca42de",
+       "title": "Conversations Reflections",
+       "pageId": "ab4d72b6-e8ab-0890-bd22-19ab90d1f44a",
+       "type": "page"
+      }
+     ]
+    },
+    {
+     "title": "Scenes",
+     "id": "eb9c80ee-be28-3944-d60b-e0c22f9cb036",
+     "type": "section",
+     "children": [
+      {
+       "id": "9e78a004-efc5-19f9-ba30-1ef53bb7f2b7",
+       "title": "Scenes",
+       "pageId": "79af6050-27f4-2070-151d-d28350eb0dc6",
+       "type": "page"
+      },
+      {
+       "id": "7990c4f9-8d31-fd5a-40f2-088dee1135cd",
+       "title": "Scenes Reflections",
+       "pageId": "97e26dc4-3c48-1b03-3338-a10bba46feed",
+       "type": "page"
+      }
+     ]
+    },
+    {
+     "title": "Debug It!",
+     "id": "0670ded2-6848-e5ad-26e7-9c301ce04593",
+     "type": "section",
+     "children": [
+      {
+       "id": "4d17c033-63ca-a46c-197b-b75a5cf913a8",
+       "title": "Debug It! 3.1",
+       "pageId": "14824657-4588-98bb-da7e-0a5f2cbf1de1",
+       "type": "page"
+      },
+      {
+       "id": "8ee69521-5abf-c0b1-cfcb-77ba788a3d83",
+       "title": "Debug It! 3.2",
+       "pageId": "b70cba5b-0ffe-5c8a-8c63-8ea50f901e01",
+       "type": "page"
+      },
+      {
+       "id": "6aad3d7a-085d-e477-f52e-284b38bc38c8",
+       "title": "Debug It! 3.3",
+       "pageId": "a81fb9d0-cdc8-36a6-6fa3-bdcc2164564e",
+       "type": "page"
+      },
+      {
+       "id": "bf2d0e03-c2da-0511-2c31-4b9106073d96",
+       "title": "Debug It! 3.4",
+       "pageId": "02abd80f-95fc-0835-3505-b9e54ea8d114",
+       "type": "page"
+      },
+      {
+       "id": "6661a8f5-04a4-265b-abe3-cfcbb008017a",
+       "title": "Debug It! 3.5",
+       "pageId": "ce87cb4c-0d42-362f-55b7-69937f65dccd",
+       "type": "page"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Unit 4 - Games",
+   "id": "17abad7e-a8ec-984f-7de1-2e3ddd88bdf1",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "New Section",
+     "id": "96d0033c-83cc-c3c1-c34e-023c83950535",
+     "type": "section",
+     "children": []
+    }
+   ]
   }
  ]
 }
