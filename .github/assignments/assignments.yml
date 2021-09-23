@@ -57,3 +57,22 @@
 - assignment: 38e347e2ccd04a2ca9105cb70c58bb9e
   section: ["Unit 3 - Characters", "Debug It!"]
   paths: ["3.4-debug-it/**"]
+  
+- assignment: 28b0d5cd3bed5d0a7353da17ca8590fb
+  section: ["Unit 4 - Games", "Keeping Score"]
+  paths: ["4.1-keeping-score/**"]
+  
+- assignment: aee503b8afb7e00986ed9049d10ded92
+  section: ["Unit 4 - Games", "Starter Games"]
+  paths: ["4.2-starter-games/**"]
+- assignment: aee503b8afb7e00986ed9049d10ded92
+  section: ["Unit 4 - Games", "Extensions"]
+  paths: ["4.2-starter-games/**"]
+  
+- assignment: fb61a54adb508ff337e385a9ff27f598
+  section: ["Unit 4 - Games", "Interactions"]
+  paths: ["4.3-interactions/**"]
+  
+- assignment: 282ef07e7b445235757421c3cc802317
+  section: ["Unit 4 - Games", "Debug It!"]
+  paths: ["4.4-debug-it/**"]

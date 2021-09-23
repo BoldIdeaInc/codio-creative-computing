@@ -1812,5 +1812,552 @@
   "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
   "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
   "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3610573771",
+  "source": {
+   "name": "How would you explain variables to someone else?",
+   "showName": false,
+   "instructions": "How would you explain variables to someone else?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.1-keeping-score/fish-chomp.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.1-keeping-score/fish-chomp.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-605640678",
+  "source": {
+   "name": "What are variables good for?",
+   "showName": false,
+   "instructions": "What are variables good for?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.1-keeping-score/fish-chomp.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.1-keeping-score/fish-chomp.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-990264990",
+  "source": {
+   "name": "What was challenging about designing your game?",
+   "showName": false,
+   "instructions": "What was challenging about designing your game?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.2-starter-games/my-game.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.2-starter-games/my-game.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1477305496",
+  "source": {
+   "name": "What are you most proud of?",
+   "showName": false,
+   "instructions": "What are you most proud of?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.2-starter-games/my-game.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.2-starter-games/my-game.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3327792113",
+  "source": {
+   "name": "What are different ways of increasing difﬁculty in a game?",
+   "showName": false,
+   "instructions": "What are different ways of increasing difﬁculty in a game?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.2-starter-games/my-game.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.2-starter-games/my-game.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1696798862",
+  "source": {
+   "name": "Which extensions did you add to your game project?",
+   "showName": false,
+   "instructions": "Which extensions did you add to your game project?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.2-starter-games/my-game.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.2-starter-games/my-game.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3455219004",
+  "source": {
+   "name": "Describe your process for including the extension(s) in your game.",
+   "showName": false,
+   "instructions": "Describe your process for including the extension(s) in your game.",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.2-starter-games/my-game.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.2-starter-games/my-game.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4065075529",
+  "source": {
+   "name": "What was your strategy for solving the puzzles?",
+   "showName": false,
+   "instructions": "What was your strategy for solving the puzzles?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.3-interactions/puzzle-9.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.3-interactions/puzzle-9.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2903162468",
+  "source": {
+   "name": "Which puzzles helped you think about your game project?",
+   "showName": false,
+   "instructions": "Which puzzles helped you think about your game project?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     }
+    ],
+    "files": [
+     "4.3-interactions/puzzle-9.sb3"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "4.3-interactions/puzzle-9.sb3"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3809991927",
+  "source": {
+   "name": "Debug It! Reflection - 4.1",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-513250785",
+  "source": {
+   "name": "Debug It! Reflection - 4.2",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3000879984",
+  "source": {
+   "name": "Debug It! Reflection - 4.4",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3662747577",
+  "source": {
+   "name": "Debug It! Reflection - 4.4",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-321988809",
+  "source": {
+   "name": "Debug It! Reflection - 4.5",
+   "showName": false,
+   "instructions": "What was the problem? How did you fix it?",
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "previewType": "NONE",
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "points": 0,
+   "rubrics": [],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Free Text"
+     },
+     {
+      "name": "Content",
+      "value": "Debug-It! reflection prompt"
+     },
+     {
+      "name": "Programming Language",
+      "value": "Scratch"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "2",
+   "learningObjectives": "Reflection"
+  },
+  "linkedId": "1b7ad306-caa9-4607-8453-e131dec8ee4c",
+  "libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+  "version": 0
  }
 ]

@@ -206,10 +206,10 @@
        "pageId": "a935e57f-9230-1497-3528-faff4e55f140"
       },
       {
-       "id": "7430521b-94ed-2f24-3969-54c4e4725132",
        "title": "Build-a-Band Reflections",
-       "pageId": "217a5d6c-4743-8712-8ab4-710b5132b0e3",
-       "type": "page"
+       "id": "7430521b-94ed-2f24-3969-54c4e4725132",
+       "type": "page",
+       "pageId": "217a5d6c-4743-8712-8ab4-710b5132b0e3"
       }
      ]
     },
@@ -225,10 +225,10 @@
        "pageId": "212b1a07-705b-d1d0-dfe5-c06c5bcea264"
       },
       {
-       "id": "696bda04-1d1a-b49a-c632-c7e494821c6b",
        "title": "Orange Square, Purple Circle Reflections",
-       "pageId": "5fdd2db6-5e88-ce0d-4ae1-04e020d3614c",
-       "type": "page"
+       "id": "696bda04-1d1a-b49a-c632-c7e494821c6b",
+       "type": "page",
+       "pageId": "5fdd2db6-5e88-ce0d-4ae1-04e020d3614c"
       }
      ]
     },
@@ -244,10 +244,10 @@
        "pageId": "acd5bc98-476e-66bc-96c3-889a2d53582c"
       },
       {
-       "id": "94a95f24-0911-07b3-3bdb-cf8190579d23",
        "title": "It's Alive! Reflections",
-       "pageId": "67da3db4-ceaa-0971-cba5-28fc89403611",
-       "type": "page"
+       "id": "94a95f24-0911-07b3-3bdb-cf8190579d23",
+       "type": "page",
+       "pageId": "67da3db4-ceaa-0971-cba5-28fc89403611"
       }
      ]
     },
@@ -300,10 +300,10 @@
        "pageId": "e1b07fc7-a567-3e98-2759-e8930aced24a"
       },
       {
-       "id": "6108bc65-5f44-f523-2594-8440e7cfa973",
        "title": "Music Video Reflections",
-       "pageId": "08cf6791-8cfd-88e5-2a5a-5d0a7bcc2fb0",
-       "type": "page"
+       "id": "6108bc65-5f44-f523-2594-8440e7cfa973",
+       "type": "page",
+       "pageId": "08cf6791-8cfd-88e5-2a5a-5d0a7bcc2fb0"
       }
      ]
     }
@@ -320,16 +320,16 @@
      "type": "section",
      "children": [
       {
-       "id": "fea0b07a-154b-a23f-df5a-c66252a099a4",
        "title": "Characters",
-       "pageId": "90bc2a3e-9714-c0d5-b141-4421f4f7f491",
-       "type": "page"
+       "id": "fea0b07a-154b-a23f-df5a-c66252a099a4",
+       "type": "page",
+       "pageId": "90bc2a3e-9714-c0d5-b141-4421f4f7f491"
       },
       {
-       "id": "7548445f-71bb-2c62-09da-4ef8e419c277",
        "title": "Characters Reflections",
-       "pageId": "08f22a07-5cd4-faf5-de39-c0bd1412650d",
-       "type": "page"
+       "id": "7548445f-71bb-2c62-09da-4ef8e419c277",
+       "type": "page",
+       "pageId": "08f22a07-5cd4-faf5-de39-c0bd1412650d"
       }
      ]
     },
@@ -339,16 +339,16 @@
      "type": "section",
      "children": [
       {
-       "id": "60a5c8f9-11f5-6045-62d7-a54f81323b5c",
        "title": "Conversations",
-       "pageId": "e6733739-5130-90e3-4bfa-690916fadc1f",
-       "type": "page"
+       "id": "60a5c8f9-11f5-6045-62d7-a54f81323b5c",
+       "type": "page",
+       "pageId": "e6733739-5130-90e3-4bfa-690916fadc1f"
       },
       {
-       "id": "954b26c3-cca4-88ba-89bc-2427dbca42de",
        "title": "Conversations Reflections",
-       "pageId": "ab4d72b6-e8ab-0890-bd22-19ab90d1f44a",
-       "type": "page"
+       "id": "954b26c3-cca4-88ba-89bc-2427dbca42de",
+       "type": "page",
+       "pageId": "ab4d72b6-e8ab-0890-bd22-19ab90d1f44a"
       }
      ]
     },
@@ -358,16 +358,16 @@
      "type": "section",
      "children": [
       {
-       "id": "9e78a004-efc5-19f9-ba30-1ef53bb7f2b7",
        "title": "Scenes",
-       "pageId": "79af6050-27f4-2070-151d-d28350eb0dc6",
-       "type": "page"
+       "id": "9e78a004-efc5-19f9-ba30-1ef53bb7f2b7",
+       "type": "page",
+       "pageId": "79af6050-27f4-2070-151d-d28350eb0dc6"
       },
       {
-       "id": "7990c4f9-8d31-fd5a-40f2-088dee1135cd",
        "title": "Scenes Reflections",
-       "pageId": "97e26dc4-3c48-1b03-3338-a10bba46feed",
-       "type": "page"
+       "id": "7990c4f9-8d31-fd5a-40f2-088dee1135cd",
+       "type": "page",
+       "pageId": "97e26dc4-3c48-1b03-3338-a10bba46feed"
       }
      ]
     },
@@ -377,34 +377,34 @@
      "type": "section",
      "children": [
       {
-       "id": "4d17c033-63ca-a46c-197b-b75a5cf913a8",
        "title": "Debug It! 3.1",
-       "pageId": "14824657-4588-98bb-da7e-0a5f2cbf1de1",
-       "type": "page"
+       "id": "4d17c033-63ca-a46c-197b-b75a5cf913a8",
+       "type": "page",
+       "pageId": "14824657-4588-98bb-da7e-0a5f2cbf1de1"
       },
       {
-       "id": "8ee69521-5abf-c0b1-cfcb-77ba788a3d83",
        "title": "Debug It! 3.2",
-       "pageId": "b70cba5b-0ffe-5c8a-8c63-8ea50f901e01",
-       "type": "page"
+       "id": "8ee69521-5abf-c0b1-cfcb-77ba788a3d83",
+       "type": "page",
+       "pageId": "b70cba5b-0ffe-5c8a-8c63-8ea50f901e01"
       },
       {
-       "id": "6aad3d7a-085d-e477-f52e-284b38bc38c8",
        "title": "Debug It! 3.3",
-       "pageId": "a81fb9d0-cdc8-36a6-6fa3-bdcc2164564e",
-       "type": "page"
+       "id": "6aad3d7a-085d-e477-f52e-284b38bc38c8",
+       "type": "page",
+       "pageId": "a81fb9d0-cdc8-36a6-6fa3-bdcc2164564e"
       },
       {
-       "id": "bf2d0e03-c2da-0511-2c31-4b9106073d96",
        "title": "Debug It! 3.4",
-       "pageId": "02abd80f-95fc-0835-3505-b9e54ea8d114",
-       "type": "page"
+       "id": "bf2d0e03-c2da-0511-2c31-4b9106073d96",
+       "type": "page",
+       "pageId": "02abd80f-95fc-0835-3505-b9e54ea8d114"
       },
       {
-       "id": "6661a8f5-04a4-265b-abe3-cfcbb008017a",
        "title": "Debug It! 3.5",
-       "pageId": "ce87cb4c-0d42-362f-55b7-69937f65dccd",
-       "type": "page"
+       "id": "6661a8f5-04a4-265b-abe3-cfcbb008017a",
+       "type": "page",
+       "pageId": "ce87cb4c-0d42-362f-55b7-69937f65dccd"
       }
      ]
     }
@@ -416,10 +416,189 @@
    "type": "chapter",
    "children": [
     {
-     "title": "New Section",
+     "title": "Keeping Score",
      "id": "96d0033c-83cc-c3c1-c34e-023c83950535",
      "type": "section",
-     "children": []
+     "children": [
+      {
+       "title": "Keeping Score",
+       "id": "1cead795-aeef-60ea-fc8d-ad01c8dc531e",
+       "type": "page",
+       "pageId": "4309b615-5b28-7fe0-6b56-8e2d2fd7d851"
+      },
+      {
+       "title": "Keeping Score Reflections",
+       "id": "538fb5f7-8893-5100-c9af-9b8cf3bdb93d",
+       "type": "page",
+       "pageId": "0356dd66-7e2f-1466-5672-d1c1ab023ee6"
+      }
+     ]
+    },
+    {
+     "title": "Starter Games",
+     "id": "64b50b7d-1848-8880-4f0a-0cfa6ad51403",
+     "type": "section",
+     "children": [
+      {
+       "title": "Choose your Starter Game",
+       "id": "bdd9d1ac-5aed-453a-3c43-a350cc6cbe6f",
+       "type": "page",
+       "pageId": "d9384ca3-8683-d8b2-ed56-f76f71806867"
+      },
+      {
+       "title": "Maze",
+       "id": "6e2ebdc3-5c8b-33a2-5d53-560fa2a1cb58",
+       "type": "page",
+       "pageId": "4d02d9ad-3cbf-467b-45b1-b6f43a186626"
+      },
+      {
+       "title": "Pong",
+       "id": "ee7c4aa7-d106-a110-14b7-af23cd15a61a",
+       "type": "page",
+       "pageId": "115c04eb-9721-e469-d632-2873674d59ff"
+      },
+      {
+       "title": "Scroller",
+       "id": "9b1b68f3-48a0-7817-bf35-0d2b408358de",
+       "type": "page",
+       "pageId": "19640bb6-c550-de8c-231d-7c6a20837fb0"
+      },
+      {
+       "title": "Starter Game Reflections",
+       "id": "421cb80a-ecd3-69de-7e15-8fcc77fb5d76",
+       "type": "page",
+       "pageId": "4b0bea28-0f70-4faa-bbb5-1f7b2e90931b"
+      }
+     ]
+    },
+    {
+     "title": "Extensions",
+     "id": "8e69992e-04cc-2964-075d-8ecbc839f5cb",
+     "type": "section",
+     "children": [
+      {
+       "title": "Extensions",
+       "id": "1dbe969c-e8e2-2cdd-795c-d9849d8e1683",
+       "type": "page",
+       "pageId": "48364882-20c6-2ead-897a-ef7ed533e3d9"
+      },
+      {
+       "title": "Extensions Reflections",
+       "id": "1ec07ad2-5c36-9c31-56f4-74cff880526c",
+       "type": "page",
+       "pageId": "1ec07ad2-5c36-9c31-56f4-74cff880526c"
+      }
+     ]
+    },
+    {
+     "title": "Interactions",
+     "id": "b69e6f63-40db-70b0-43b7-3053596ce323",
+     "type": "section",
+     "children": [
+      {
+       "title": "Interactions",
+       "id": "840a5027-9dca-3d9a-40cc-c9717558c386",
+       "type": "page",
+       "pageId": "d80a4cfe-c63e-33a5-0ab3-623dbf1e7e7d"
+      },
+      {
+       "title": "Puzzle 1",
+       "id": "889bc80e-3cce-19e1-d6f8-1effa7ea2ded",
+       "type": "page",
+       "pageId": "5ba37d19-2328-5514-50e2-0d550036f697"
+      },
+      {
+       "title": "Puzzle 2",
+       "id": "2aaa50a2-3e21-43e2-475d-c81c2326fd42",
+       "type": "page",
+       "pageId": "2aaa50a2-3e21-43e2-475d-c81c2326fd42"
+      },
+      {
+       "title": "Puzzle 3",
+       "id": "4068b1d0-e462-6768-e82f-7be7bd25037f",
+       "type": "page",
+       "pageId": "4068b1d0-e462-6768-e82f-7be7bd25037f"
+      },
+      {
+       "title": "Puzzle 4",
+       "id": "f16f8b35-3d6b-f615-dbac-6495dd568fab",
+       "type": "page",
+       "pageId": "f16f8b35-3d6b-f615-dbac-6495dd568fab"
+      },
+      {
+       "title": "Puzzle 5",
+       "id": "490e5008-db76-2a54-6c80-65a5c501603f",
+       "type": "page",
+       "pageId": "490e5008-db76-2a54-6c80-65a5c501603f"
+      },
+      {
+       "title": "Puzzle 6",
+       "id": "7cbb3e54-d6ab-e35a-11b8-d25e6579a6cc",
+       "type": "page",
+       "pageId": "7cbb3e54-d6ab-e35a-11b8-d25e6579a6cc"
+      },
+      {
+       "title": "Puzzle 7",
+       "id": "4335adaa-0ee2-0877-2391-2570b06c1b5a",
+       "type": "page",
+       "pageId": "4335adaa-0ee2-0877-2391-2570b06c1b5a"
+      },
+      {
+       "title": "Puzzle 8",
+       "id": "b5033f53-3264-44f2-947c-70c3eaed26dd",
+       "type": "page",
+       "pageId": "b5033f53-3264-44f2-947c-70c3eaed26dd"
+      },
+      {
+       "title": "Puzzle 9",
+       "id": "784935a3-fcef-04ce-2295-71a5d78b0c33",
+       "type": "page",
+       "pageId": "784935a3-fcef-04ce-2295-71a5d78b0c33"
+      },
+      {
+       "title": "Interactions Reflections",
+       "id": "1167f914-a5e4-4385-21c9-ae30ec485e18",
+       "type": "page",
+       "pageId": "145ae20f-6b59-f2f6-c89f-92ad80c499d2"
+      }
+     ]
+    },
+    {
+     "title": "Debug It!",
+     "id": "c05b126a-d32e-ca49-8d31-09264d673d31",
+     "type": "section",
+     "children": [
+      {
+       "title": "Debug It! 4.1",
+       "id": "82b95be8-04b3-97b9-3d7b-9fb832e1d702",
+       "type": "page",
+       "pageId": "6a202f31-73cf-7cde-d44b-88de6b13a139"
+      },
+      {
+       "title": "Debug It! 4.2",
+       "id": "0350a83a-9bb9-6e1b-a837-9637cd0b35c7",
+       "type": "page",
+       "pageId": "0350a83a-9bb9-6e1b-a837-9637cd0b35c7"
+      },
+      {
+       "title": "Debug It! 4.3",
+       "id": "41be6c3c-34ea-7f91-41e0-dc766ef3c867",
+       "type": "page",
+       "pageId": "41be6c3c-34ea-7f91-41e0-dc766ef3c867"
+      },
+      {
+       "title": "Debug It! 4.4",
+       "id": "d1878152-34d3-9c52-124b-2202cd6ac31f",
+       "type": "page",
+       "pageId": "d1878152-34d3-9c52-124b-2202cd6ac31f"
+      },
+      {
+       "title": "Debug It! 4.5",
+       "id": "9b4824eb-3e2d-9a6e-5ff6-d0b364d45388",
+       "type": "page",
+       "pageId": "9b4824eb-3e2d-9a6e-5ff6-d0b364d45388"
+      }
+     ]
     }
    ]
   }
