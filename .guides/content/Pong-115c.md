@@ -4,6 +4,7 @@
 In this project, you will create a game. This game includes interactions between sprites, score, and levels. The game is similar to the classic game of pong, where the goal is to keep the sprite from getting past you.
 
 ## Start here
+- Add a backdrop, then draw a filled square on the backdrop for the "floor".
 - Create two sprites: a paddle for the user to control and a ball the user will be playing with.
   ![](.guides/img/pong-sprites.png)
 - Add keyboard controls for the paddle to move it left and right.
