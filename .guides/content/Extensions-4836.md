@@ -4,8 +4,8 @@
 Get into game design by adding extended features within your Scratch project! Choose at least one (or more!) of the following extensions and add it to your previously started maze, pong, or scrolling game.
 
 ## Start here
-1. Choose one (or more) of the extensions to explore below.
-2. Click "See Inside" to see the code for the project.
+1. Choose THREE (or more) of the extensions to explore below.
+2. Click the extension to view an example project, then click "See Inside" to see the code for the project.
 3. Incorporate your choice into your previously started game project!
 
 ## Extensions to try:
