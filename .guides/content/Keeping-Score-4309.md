@@ -15,5 +15,7 @@ Fish Chomp is a game where players try to catch as many ﬁsh as they can by gui
 
 |||info
 ## Feeling stuck?
+Don't forget to use the `show variable` block to see your score on the screen!
+
 Not sure how to work with variables? Check out [this video](http://youtu.be/uXq379XkhVw) information.
 |||
