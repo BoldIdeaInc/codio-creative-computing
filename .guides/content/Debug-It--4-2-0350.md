@@ -12,3 +12,10 @@ Look at the code for a yellow Gobo, then look at the code for a pink Gobo. What'
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-513250785)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

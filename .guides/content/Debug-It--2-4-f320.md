@@ -18,3 +18,10 @@ The condition in the "repeat until" block needs to be fixed. It should repeat "u
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-188943917)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

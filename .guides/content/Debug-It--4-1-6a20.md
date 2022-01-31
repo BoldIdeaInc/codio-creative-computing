@@ -12,3 +12,10 @@ Look at the code for each sprite. How does the sprite "know" when it is touching
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-3809991927)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

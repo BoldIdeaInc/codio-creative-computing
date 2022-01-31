@@ -16,3 +16,11 @@ Is there a block you can add that will wait until the ball is NOT touching the c
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-3662747577)
+
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

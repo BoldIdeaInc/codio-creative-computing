@@ -11,3 +11,10 @@ The blocks rotate the cat 90° at a time. However, each block runs at the exact 
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-1602730036)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

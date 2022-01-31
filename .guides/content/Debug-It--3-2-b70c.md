@@ -20,3 +20,10 @@ You can drag that parameter and use it as a **variable**. Where might you use th
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-1511952528)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

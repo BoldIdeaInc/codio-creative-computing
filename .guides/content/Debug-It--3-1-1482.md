@@ -13,3 +13,10 @@ When you use a custom block, it only works if the block definition exists in the
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-4210104710)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

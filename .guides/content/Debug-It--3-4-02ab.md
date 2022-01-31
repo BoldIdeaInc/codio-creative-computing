@@ -13,3 +13,10 @@ Gobo is listening for a "jump" broadcast, but nothing is broadcasting it.
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-1902878426)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

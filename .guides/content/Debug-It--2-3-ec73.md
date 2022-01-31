@@ -16,3 +16,10 @@ First, you'll need to figure out which part of the code draws the eyes, and whic
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-3645697964)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

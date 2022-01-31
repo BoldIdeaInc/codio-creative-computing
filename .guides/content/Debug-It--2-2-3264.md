@@ -12,3 +12,10 @@ The **touching** block can detect if the sprite is touching the edge, the mouse 
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-2764009347)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

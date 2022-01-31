@@ -13,3 +13,10 @@ In this project, when the green ﬂag is clicked, the Scratch Cat should saw ‘
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-2859732922)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

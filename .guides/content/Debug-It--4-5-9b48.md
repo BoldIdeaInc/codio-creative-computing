@@ -16,3 +16,11 @@ If the cat is touching the green color, we need to move the cat `-10` steps.
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-321988809)
+
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||

@@ -12,3 +12,10 @@ The **broadcast** blocks cause each character to say their name. Do they appear 
 
 ## Reflection
 {Submit Answer!|assessment}(free-text-2734407185)
+
+|||important
+## Don't forget to save!
+Did you save your work? If not, click "File" in the Scratch interface, then click "Save".
+
+![](.guides/img/scratch-save-now.gif)
+|||
