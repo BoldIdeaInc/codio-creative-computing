@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What is an animation?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"2.2-its-alive/its-alive.sb3"
+			],
+			"opened": [
+				{
+					"content": "2.2-its-alive/its-alive.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What is an animation?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-3630353138",
+	"type": "free-text"
+}

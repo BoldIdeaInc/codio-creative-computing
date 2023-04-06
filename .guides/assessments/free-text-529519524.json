@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "When might you use Make a Block?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"3.1-characters/characters.sb3"
+			],
+			"opened": [
+				{
+					"content": "3.1-characters/characters.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "When might you use Make a Block?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-529519524",
+	"type": "free-text"
+}

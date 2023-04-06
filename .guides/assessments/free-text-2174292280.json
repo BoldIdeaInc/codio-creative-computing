@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What is something you still want to figure out?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"2.5-music-video/music-video.sb3"
+			],
+			"opened": [
+				{
+					"content": "2.5-music-video/music-video.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What is something you still want to figure out?",
+		"oneTimeTest": true,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-2174292280",
+	"type": "free-text"
+}

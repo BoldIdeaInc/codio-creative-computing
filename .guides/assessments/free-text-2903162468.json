@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "Which puzzles helped you think about your game project?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.3-interactions/puzzle-9.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.3-interactions/puzzle-9.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "Which puzzles helped you think about your game project?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-2903162468",
+	"type": "free-text"
+}

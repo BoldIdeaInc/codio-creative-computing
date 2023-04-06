@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "4.3-interactions/puzzle-6.sb3"
+		}
+	],
+	"id": "7cbb3e54-d6ab-e35a-11b8-d25e6579a6cc",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Puzzle 6",
+	"type": "page"
+}

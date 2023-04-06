@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What did you get stuck on? How did you get\nunstuck?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"1.4-about-me/about-me.sb3"
+			],
+			"opened": [
+				{
+					"content": "1.4-about-me/about-me.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What did you get stuck on? How did you get unstuck?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-1233991096",
+	"type": "free-text"
+}

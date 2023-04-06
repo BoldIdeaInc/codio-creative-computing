@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "2.1-build-a-band/build-a-band.sb3"
+		}
+	],
+	"id": "b62d9c55-a267-34e6-e3c3-017a3fed97e6",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Build-a-Band",
+	"type": "page"
+}

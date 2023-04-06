@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What was your strategy for solving the puzzles?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.3-interactions/puzzle-9.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.3-interactions/puzzle-9.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What was your strategy for solving the puzzles?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-4065075529",
+	"type": "free-text"
+}

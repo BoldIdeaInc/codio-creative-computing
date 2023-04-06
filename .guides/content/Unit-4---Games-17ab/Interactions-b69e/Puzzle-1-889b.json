@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "4.3-interactions/puzzle-1.sb3"
+		}
+	],
+	"id": "889bc80e-3cce-19e1-d6f8-1effa7ea2ded",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Puzzle 1",
+	"type": "page"
+}

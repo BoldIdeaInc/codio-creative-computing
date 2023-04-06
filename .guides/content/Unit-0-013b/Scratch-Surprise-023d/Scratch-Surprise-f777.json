@@ -1,0 +1,20 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "0.1-scratch-surprise/scratch-surprise.sb3"
+		}
+	],
+	"id": "f777ba1e-9129-1b21-185e-033971d6f81c",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Scratch Surprise",
+	"type": "page"
+}

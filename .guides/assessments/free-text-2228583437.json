@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What was a challenge you overcame? How did you overcome it?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"2.5-music-video/music-video.sb3"
+			],
+			"opened": [
+				{
+					"content": "2.5-music-video/music-video.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What was a challenge you overcame?",
+		"oneTimeTest": true,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-2228583437",
+	"type": "free-text"
+}

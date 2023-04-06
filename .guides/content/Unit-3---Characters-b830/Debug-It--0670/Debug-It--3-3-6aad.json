@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "3.4-debug-it/Debug-It 3.3.sb3"
+		}
+	],
+	"id": "6aad3d7a-085d-e477-f52e-284b38bc38c8",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Debug It! 3.3",
+	"type": "page"
+}

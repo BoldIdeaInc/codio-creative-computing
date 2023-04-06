@@ -1,0 +1,48 @@
+{
+	"libraryId": "8c99a606-9540-4b09-9775-7b703e327402",
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "2",
+		"guidance": "",
+		"instructions": "What was the problem? How did you fix it?",
+		"learningObjectives": "Reflection",
+		"metadata": {
+			"files": [
+				"1.3-debug-it/Debug-It 1.5.sb3"
+			],
+			"opened": [
+				{
+					"content": "1.3-debug-it/Debug-It 1.5.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				},
+				{
+					"name": "Content",
+					"value": "Debug-It! reflection prompt"
+				},
+				{
+					"name": "Programming Language",
+					"value": "Scratch"
+				}
+			]
+		},
+		"name": "Debug It! Reflection - 1.2",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-990286248",
+	"type": "free-text",
+	"version": 0
+}

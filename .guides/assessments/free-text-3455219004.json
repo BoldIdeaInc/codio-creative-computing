@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "Describe your process for including the extension(s) in your game.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.2-starter-games/my-game.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.2-starter-games/my-game.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "Describe your process for including the extension(s) in your game.",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-3455219004",
+	"type": "free-text"
+}

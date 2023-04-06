@@ -1,0 +1,24 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "2.4-debug-it/Debug It! 2.2.sb3"
+		}
+	],
+	"id": "32649e4e-8bb7-e6d2-f95d-724adef55fea",
+	"layout": "",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Debug It! 2.2",
+	"type": "page"
+}

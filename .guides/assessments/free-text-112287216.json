@@ -1,0 +1,44 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What did you ﬁgure out?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"test.sb3",
+				"01-scratch-surprise/scratch-surprise.sb3"
+			],
+			"opened": [
+				{
+					"content": "test.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				},
+				{
+					"content": "01-scratch-surprise/scratch-surprise.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What did you figure out?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-112287216",
+	"type": "free-text"
+}

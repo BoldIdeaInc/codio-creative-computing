@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What are variables good for?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.1-keeping-score/fish-chomp.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.1-keeping-score/fish-chomp.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What are variables good for?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-605640678",
+	"type": "free-text"
+}

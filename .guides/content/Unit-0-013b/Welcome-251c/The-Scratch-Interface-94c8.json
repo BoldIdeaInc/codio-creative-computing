@@ -1,0 +1,20 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "0.1-scratch-surprise/scratch-surprise.sb3"
+		}
+	],
+	"id": "94c83425-140c-fe12-1a7e-c6a7418fdcca",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "The Scratch Interface",
+	"type": "page"
+}

@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "When would you use timing in a project? When would you use broadcasting?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"3.2-conversations/penguin-jokes.sb3"
+			],
+			"opened": [
+				{
+					"content": "3.2-conversations/penguin-jokes.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "When would you use timing in a project?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-1452372856",
+	"type": "free-text"
+}

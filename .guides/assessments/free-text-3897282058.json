@@ -1,0 +1,44 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "How did it feel to be led step-by-step through\nthe activity?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"test.sb3",
+				"0.1-scratch-surprise/scratch-surprise.sb3"
+			],
+			"opened": [
+				{
+					"content": "test.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				},
+				{
+					"content": "0.1-scratch-surprise/scratch-surprise.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "How did it feel to be led step-by-step through the activity?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-3897282058",
+	"type": "free-text"
+}

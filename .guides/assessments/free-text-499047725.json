@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "How would you explain Make a Block to someone else?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"3.1-characters/characters.sb3"
+			],
+			"opened": [
+				{
+					"content": "3.1-characters/characters.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "How would you explain Make a Block to someone else?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-499047725",
+	"type": "free-text"
+}

@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "How would you explain variables to someone else?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.1-keeping-score/fish-chomp.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.1-keeping-score/fish-chomp.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "How would you explain variables to someone else?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-3610573771",
+	"type": "free-text"
+}

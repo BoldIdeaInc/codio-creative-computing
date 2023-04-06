@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "List three ways you experience loops in real life (e.g., going to sleep every night).",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"2.2-its-alive/its-alive.sb3"
+			],
+			"opened": [
+				{
+					"content": "2.2-its-alive/its-alive.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "List three ways you experience loops in real life",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-1209496049",
+	"type": "free-text"
+}

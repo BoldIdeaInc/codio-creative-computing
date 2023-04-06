@@ -1,0 +1,25 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Unit-0-013b",
+		"Unit-1---Exploring-22e7",
+		"Unit-2---Animations-7e30",
+		"Unit-3---Characters-b830",
+		"Unit-4---Games-17ab"
+	],
+	"protectLayout": false,
+	"scripts": [
+		"https://codio.com/codio-client.js",
+		".guides/guide.js"
+	],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Creative Computing",
+	"useMarkAsComplete": false,
+	"useSubmitButtons": false
+}

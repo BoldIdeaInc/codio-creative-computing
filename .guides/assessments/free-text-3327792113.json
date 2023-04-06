@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What are different ways of increasing difﬁculty in a game?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"4.2-starter-games/my-game.sb3"
+			],
+			"opened": [
+				{
+					"content": "4.2-starter-games/my-game.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What are different ways of increasing difﬁculty in a game?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-3327792113",
+	"type": "free-text"
+}

@@ -1,0 +1,38 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "- What are the different ways you interact with computers?\n- How many of those ways involve being creative with computers?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"test.sb3"
+			],
+			"opened": [
+				{
+					"content": "test.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "Initial Reflections",
+		"oneTimeTest": true,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-4043980362",
+	"type": "free-text"
+}

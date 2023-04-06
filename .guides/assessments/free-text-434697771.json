@@ -1,0 +1,44 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What do you want to know more about?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"test.sb3",
+				"01-scratch-surprise/scratch-surprise.sb3"
+			],
+			"opened": [
+				{
+					"content": "test.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				},
+				{
+					"content": "01-scratch-surprise/scratch-surprise.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What do you want to know more about?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-434697771",
+	"type": "free-text"
+}

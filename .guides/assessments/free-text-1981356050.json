@@ -1,0 +1,44 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "What was surprising about the activity?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"test.sb3",
+				"0.1-scratch-surprise/scratch-surprise.sb3"
+			],
+			"opened": [
+				{
+					"content": "test.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				},
+				{
+					"content": "0.1-scratch-surprise/scratch-surprise.sb3",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "What was surprising about the activity?",
+		"oneTimeTest": false,
+		"points": 0,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "free-text-1981356050",
+	"type": "free-text"
+}
